@@ -191,7 +191,7 @@ const Home = () => {
           </p>
           <img
             className="overlay-image"
-            src={`${window.location.origin}/hof/images/Augustijnenkerk.jpg`}
+            src={`${window.location.origin}/hof/images/augustijnenkerk.jpg`}
             alt="Augustijnenkerk"
           />
           <h2 id= "augustijnenkerk-section" className="overlay-kop">De Augustijnenkerk</h2>
