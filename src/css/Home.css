@@ -223,3 +223,18 @@
 .arrow-overlay:hover {
     transform: rotate(-90deg) translateY(-8px);
 }
+
+
+
+@media (max-width: 768px) and (orientation: landscape) {
+    .main-kop {
+        bottom: 15%;
+        font-size: 3vw;
+        width: 65%;
+    }
+    .main-tekst {
+        bottom: 2%;
+        font-size: 1.6vw;
+        width: 65%;
+    }
+}
