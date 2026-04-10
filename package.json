@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Antibes3038vd59/Hof.git"
+    "url": "git+https://github.com/Antibes3038vd59/hof.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Antibes3038vd59/Hof/issues"
+    "url": "https://github.com/Antibes3038vd59/hof/issues"
   },
-  "homepage": "https://github.com/Antibes3038vd59/Hof#readme",
+  "homepage": "https://github.com/Antibes3038vd59/hof",
   "browserslist": {
     "production": [
       ">0.2%",
