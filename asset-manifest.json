@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hof/static/css/main.ee04064d.css",
+    "main.js": "/hof/static/js/main.602465d0.js",
+    "index.html": "/hof/index.html",
+    "main.ee04064d.css.map": "/hof/static/css/main.ee04064d.css.map",
+    "main.602465d0.js.map": "/hof/static/js/main.602465d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee04064d.css",
+    "static/js/main.602465d0.js"
+  ]
+}
