@@ -798,7 +798,6 @@ const Home = () => {
         toggle={toggleOverlay(setShowOverlayPaginaZeven, overlayContainerRefPaginaZeven)}
       >
         <div ref={overlayContainerRefPaginaZeven}>  
-        <h2 id= "overzicht-section" className="overlay-kop">In Den Haag</h2>
         <p className="overlay-tekst">
         1. Karel V (1500–1558): De erfenis van de Nederlanden
         <br /><br />
