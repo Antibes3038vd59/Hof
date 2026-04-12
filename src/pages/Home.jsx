@@ -387,15 +387,15 @@ const Home = () => {
         
         <img
           className="overlay-image"
-          src={`${process.env.PUBLIC_URL}/images/oorlog.jpg`}
+          src={`${process.env.PUBLIC_URL}/images/oorlog2.jpg`}
           alt="Tachtigjarige Oorlog"
         />
         Willem van Oranje besloot dat gewapend verzet de enige manier was om de Spaanse overheersing 
         te breken. In 1568 begon hij, met steun van zijn broer Lodewijk van Nassau, een invasie in 
         de Nederlanden vanuit Duitsland. Hoewel de eerste pogingen mislukten, was de Slag bij Heiligerlee 
-        (23 mei 1568) een belangrijke overwinning voor de opstandelingen. Deze slag markeert het begin 
-        van de Tachtigjarige Oorlog. Ondanks tegenslagen, zoals de inname van Haarlem en Alkmaar door de Spanjaarden, 
-        bleef Willem volharden. In 1572 was er een keerpunt in de opstand. <br /><br />
+         een belangrijke overwinning voor de opstandelingen. Deze slag markeert het begin 
+        van de Tachtigjarige Oorlog. Ondanks tegenslagen, bleef Willem volharden. 
+        In 1572 was er een keerpunt in de opstand. <br /><br />
 
         De inname van Den Briel door de watergeuzen (1 april 1572). 
         Dit inspireerde andere steden om zich bij de opstand aan te sluiten. Willem van Oranje speelde een 
@@ -495,7 +495,7 @@ const Home = () => {
 
         <img
           className="overlay-image"
-          src={`${process.env.PUBLIC_URL}/images/oorlog.jpg`}
+          src={`${process.env.PUBLIC_URL}/images/statenvergadering2.jpg`}
           alt="statenvergadering"
         />
 
@@ -503,8 +503,8 @@ const Home = () => {
         De steden erkenden Willem van Oranje als de rechtmatige stadhouder van Holland, 
         Zeeland en Utrecht. Dit was een directe uitdaging voor de Spaanse koning, die Willem als een 
         verrader beschouwde. Willem werd zo de politieke leider van de opstand.
-        De steden besloten om geld en troepen beschikbaar te stellen voor de strijd tegen de Spanjaarden. 
-        Dit was cruciaal, omdat de opstand zonder financiële steun niet kon slagen.
+        De steden besloten om geld en troepen beschikbaar te stellen voor de strijd tegen de Spanjaarden.<br /> 
+        Dit was cruciaal, omdat de opstand zonder financiële steun niet kon slagen.<br />
         Op verzoek van Willem van Oranje werd besloten om godsdienstvrijheid te waarborgen. 
         <br /><br />
 
