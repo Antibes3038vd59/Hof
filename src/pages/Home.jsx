@@ -26,15 +26,16 @@ const Home = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
+  // behavior scroll klik op link
   const scrollToPaginaTwee = () => {
     const paginaTwee = document.getElementById('pagina-twee');
-    paginaTwee.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    paginaTwee.scrollIntoView({ behavior: 'smooth', block: 'end' });
   };
 
   const scrollToSection = (sectionId) => {
     const section = document.getElementById(sectionId);
     if (section) {
-      section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      section.scrollIntoView({ behavior: 'smooth', block: 'end' });
     }
   };
 
