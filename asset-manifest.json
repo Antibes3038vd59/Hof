@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hof/static/css/main.565b7c5b.css",
-    "main.js": "/hof/static/js/main.2785e9b8.js",
+    "main.js": "/hof/static/js/main.3d948efc.js",
     "index.html": "/hof/index.html",
     "main.565b7c5b.css.map": "/hof/static/css/main.565b7c5b.css.map",
-    "main.2785e9b8.js.map": "/hof/static/js/main.2785e9b8.js.map"
+    "main.3d948efc.js.map": "/hof/static/js/main.3d948efc.js.map"
   },
   "entrypoints": [
     "static/css/main.565b7c5b.css",
-    "static/js/main.2785e9b8.js"
+    "static/js/main.3d948efc.js"
   ]
 }
